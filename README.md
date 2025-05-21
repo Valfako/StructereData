@@ -1,7 +1,5 @@
 # Data Structures and Algorithms Interactive Menu / Menu Interativo de Estruturas de Dados
 
-![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)
 
 An interactive console application demonstrating core data structures and algorithms with full menu navigation.  
 *Aplicativo de console interativo que demonstra estruturas de dados e algoritmos com navegação por menus.*
